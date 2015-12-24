@@ -16,5 +16,4 @@
 !/log/.keep
 /tmp
 
-#Ignore secrets file until issues setting environmental variables has beeen resolved.
-/config/secrets.yml
+
